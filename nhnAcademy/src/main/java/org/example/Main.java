@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("양현성");
         System.out.println("김상주");
+        System.out.println("강명관");
     }
 }
